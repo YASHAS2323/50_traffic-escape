@@ -1,3 +1,7 @@
+#STUDENT DETAILS
+NAME: YASHAS C
+SRN: PES1UG24CS544
+SECTION: I
 # Traffic Escape
 
 Cross 8 lanes of oncoming traffic to reach the other side (Frogger-style).
